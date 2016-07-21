@@ -1,0 +1,8 @@
+init_config:
+  # Change default path of trusted certificates
+  # ca_certs: /etc/ssl/certs/ca-certificates.crt
+   check_freq: 20
+
+instances:
+  - name : assurf.brighterlink.io
+    url: https://assurf.brighterlink.io
