@@ -3,8 +3,6 @@
 
 
 # Directory Structure
-    .docker/
-      envvars
     config/
       global.json
     cloud/
